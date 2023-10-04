@@ -1,0 +1,1 @@
+web: gunicorn dashboardapp.wsgi --log-file -
